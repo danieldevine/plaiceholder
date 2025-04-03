@@ -2,7 +2,7 @@
   "name": "coderjerk/plaiceholder",
   "description": "Generate placeholder content for WordPress using WP-CLI and OpenAI",
   "type": "library",
-  "license": "WTFPL",
+  "license": "MIT",
   "require": {
     "php": ">=7.4"
   },
