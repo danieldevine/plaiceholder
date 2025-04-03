@@ -1,0 +1,16 @@
+{
+  "name": "coderjerk/plaiceholder",
+  "description": "Generate placeholder content for WordPress using WP-CLI and OpenAI",
+  "type": "library",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Plaiceholder\\": "src/"
+    },
+    "files": [
+      "wp-cli/commands.php"
+    ]
+  }
+}
